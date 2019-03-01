@@ -67,6 +67,17 @@
             <version>1.4.197</version>
             <scope>test</scope>
         </dependency>
+        <!--thymeleaf-->
+        <!--<dependency>-->
+            <!--<groupId>org.thymeleaf</groupId>-->
+            <!--<artifactId>thymeleaf</artifactId>-->
+            <!--<version>3.0.3.RELEASE</version>-->
+        <!--</dependency>-->
+        <!--<dependency>-->
+            <!--<groupId>org.thymeleaf</groupId>-->
+            <!--<artifactId>thymeleaf-Spring4</artifactId>-->
+            <!--<version>3.0.2.RELEASE</version>-->
+        <!--</dependency>-->
     </dependencies>
 
     <build>
