@@ -22,4 +22,10 @@ public class HomeController {
     public ApiResponse get(){
         return ApiResponse.ofMessage(200,"妥妥的");
     }
+
+    @GetMapping("/post")
+    @ResponseBody
+    public ApiResponse post(){
+        return ApiResponse.ofMessage(200,"必须的");
+    }
 }
